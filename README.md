@@ -1,0 +1,2 @@
+# ciscoswitch-Vaamonde-
+Configurando switch 
